@@ -1,0 +1,43 @@
+body{background-image: url(ho%20-%20Copy.jpg)}
+        
+.head img{
+    background-image: url(logo.jpg);
+    
+}
+         nav ul {
+  list-style-type: none;
+  padding: 0px;
+  overflow: hidden;
+}
+
+nav li {
+  float: right;
+    list-style-type: none;
+    
+}
+
+nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 5px 20px;
+  text-decoration: none;
+  margin: 10px;
+  border: 1px solid white;
+}
+        nav li a:hover{
+            background-color:black;
+        }
+        .text{
+            text-align: center;
+            font-family: cursive;
+            color: Yellow;
+            font-size: 100px;
+            padding-top: 30px;
+        }
+#container{
+    width: 80%;
+    margin: 0 auto;
+    overflow: auto;
+    clear: both;
+}

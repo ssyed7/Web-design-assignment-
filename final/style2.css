@@ -1,0 +1,41 @@
+body{background-color:seashell;
+    }
+   
+    h2{text-align: center;
+        border: 5px solid black;
+        padding: 20px;
+        font-family: cursive;
+    }
+    h3{padding:10px;
+        border: 5px solid black;
+        text-align: center;
+        font-family: cursive;
+        font-size: 40px;
+        color: Red;
+        }
+    
+    li a{font-family: fantasy;}
+    
+   
+    
+    nav ul{list-style-type: none;
+  padding: 0px;
+  overflow: hidden;
+  background-color: black;
+}
+
+nav li {
+  float: right;
+}
+
+nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px 26px;
+  text-decoration: none;
+  margin: 10px;
+}
+dt{
+    color:black;
+}
